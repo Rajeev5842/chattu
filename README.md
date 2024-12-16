@@ -2,7 +2,8 @@
 
 Chattu is a real-time chat application built with **Node.js**, **WebSockets**, and **React**. It allows for two-way communication, enabling users to exchange messages instantly. The app offers a seamless chat experience with a simple interface and smooth performance.
 
-![Chattu Main Page](chattu/chattuss.png)
+![Chattu Main Page](chattuss.png)
+
 
 ## Features
 
